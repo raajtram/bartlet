@@ -3,7 +3,7 @@ Bartlet is a simple, clean and responsive skin for The Thesis Theme Framework.
 
 ## Requirements
 * [WordPress](https://wordpress.org)
-* [Thesis](https://diythemes.com)
+* [Thesis](http://diythemes.com)
 
 ## Demo
 
