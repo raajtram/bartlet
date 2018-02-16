@@ -897,6 +897,7 @@ body a:hover {
   margin-bottom: 0.75rem;
   font-family: $f_headlines;
   font-size: 2rem;
+  line-height: 1.2;
 }
 
 #header #site_title a {
@@ -1165,7 +1166,7 @@ blockquote {
 
 /*---:[ Post Styles ]:---*/
 
-.template-front .post_box .headline, .template-page .post_box .headline {
+.template-front .post_box .headline, .template-page .post_box .headline, .template-full .post_box .headline, .template-landing .post_box .headline {
   margin-bottom: 1.5rem;
 }
 
